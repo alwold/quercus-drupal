@@ -1,0 +1,8 @@
+/* 
+/**
+* Styles to address IE8 browser inconsistencies
+*/
+
+#asu_search_module input.asu_search_button {
+   margin-top: -22px;
+}
